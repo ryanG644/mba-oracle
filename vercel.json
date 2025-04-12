@@ -1,5 +1,6 @@
 {
   "version": 2,
+  "builds": [],
   "functions": {
     "api/oracle.js": {
       "runtime": "nodejs18.x"
